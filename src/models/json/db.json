@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "_id": "ae9ec062-c421-4c47-a48e-63dc9266d40f",
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "__v": 0
+    },
+    {
+      "_id": "d02cbe52-1cc9-4658-816c-a084d75c799c",
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "__v": 0
+    },
+    {
+      "_id": "a8bad78b-a050-4bbb-b4e7-b9da0825127c",
+      "firstName": "Bart",
+      "lastName": "Simpson",
+      "email": "bart@simpson.com",
+      "password": "secret",
+      "__v": 0
+    }
+  ],
+  "categories": [
+    {
+      "title": "Diners",
+      "userid": "65ee247cb70a517a1b7fc8b2",
+      "_id": "8457552d-ef70-4338-b0d9-83c8f218eeff"
+    }
+  ],
+  "pois": [
+    {
+      "name": "Luke's",
+      "latitude": 2,
+      "longitude": 2,
+      "_id": "1183f8cf-84af-4a76-b64d-e0c256726f0a",
+      "categoryid": "8457552d-ef70-4338-b0d9-83c8f218eeff"
+    },
+    {
+      "name": "TwoPups",
+      "latitude": 3,
+      "longitude": 3,
+      "_id": "64f0183c-be47-4263-8cb8-ebd488b8ec7b",
+      "categoryid": "8457552d-ef70-4338-b0d9-83c8f218eeff"
+    },
+    {
+      "name": "Noshington",
+      "latitude": 4,
+      "longitude": 4,
+      "_id": "cc79df9f-7162-4545-9c3b-67eef0789827",
+      "categoryid": "8457552d-ef70-4338-b0d9-83c8f218eeff"
+    }
+  ]
+}
